@@ -1,6 +1,6 @@
-# weatherdiva
+# Weather app by Diva
 
-A new Flutter project.
+My flutter project.
 
 ## Getting Started
 
