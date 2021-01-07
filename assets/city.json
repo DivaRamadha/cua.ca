@@ -1,0 +1,502 @@
+[
+    {
+        "id": 108410,
+        "name": "Riyadh",
+        "state": "",
+        "country": "SA",
+        "coord": {
+            "lon": 46.721851,
+            "lat": 24.687731
+        }
+    },
+    {
+        "id": 2038493,
+        "name": "Bali",
+        "state": "",
+        "country": "CN",
+        "coord": {
+            "lon": 122.754509,
+            "lat": 40.78857
+        }
+    },
+    {
+        "id": 1625822,
+        "name": "Surabaya",
+        "state": "",
+        "country": "ID",
+        "coord": {
+            "lon": 112.750832,
+            "lat": -7.24917
+        }
+    },
+    {
+        "id": 1630789,
+        "name": "Pontianak",
+        "state": "",
+        "country": "ID",
+        "coord": {
+            "lon": 109.333328,
+            "lat": -0.03333
+        }
+    },
+    {
+        "id": 1215501,
+        "name": "Kota Banda Aceh",
+        "state": "",
+        "country": "ID",
+        "coord": {
+            "lon": 95.343002,
+            "lat": 5.542
+        }
+    },
+    {
+        "id": 1215502,
+        "name": "Banda Aceh",
+        "state": "",
+        "country": "ID",
+        "coord": {
+            "lon": 95.322197,
+            "lat": 5.5577
+        }
+    },
+    {
+        "id": 1261481,
+        "name": "New Delhi",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 77.23114,
+            "lat": 28.61282
+        }
+    },
+    {
+        "id": 1850144,
+        "name": "Tokyo Prefecture",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 139.691711,
+            "lat": 35.689499
+        }
+    },
+    {
+        "id": 1850147,
+        "name": "Tokyo",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 139.691711,
+            "lat": 35.689499
+        }
+    },
+    {
+        "id": 1850152,
+        "name": "Tokuyama",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 131.816666,
+            "lat": 34.049999
+        }
+    },
+    {
+        "id": 1850157,
+        "name": "Tokushima-ken",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 134.236816,
+            "lat": 33.921761
+        }
+    },
+    {
+        "id": 1850158,
+        "name": "Tokushima",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 134.559433,
+            "lat": 34.06583
+        }
+    },
+    {
+        "id": 1850177,
+        "name": "Tokuda",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 136.583328,
+            "lat": 35.23333
+        }
+    },
+    {
+        "id": 1850181,
+        "name": "Tokorozawa",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 139.469025,
+            "lat": 35.79916
+        }
+    },
+    {
+        "id": 1850185,
+        "name": "Tokoname",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 136.850006,
+            "lat": 34.883331
+        }
+    },
+    {
+        "id": 1850207,
+        "name": "Toki",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 137.183334,
+            "lat": 35.349998
+        }
+    },
+    {
+        "id": 1850213,
+        "name": "Tokashiki",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 127.358612,
+            "lat": 26.192499
+        }
+    },
+    {
+        "id": 1850217,
+        "name": "Tōkamachi",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 138.766663,
+            "lat": 37.133331
+        }
+    },
+    {
+        "id": 1850223,
+        "name": "Tōkaichi",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 132.850006,
+            "lat": 34.799999
+        }
+    },
+    {
+        "id": 1850233,
+        "name": "Tōji",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 130.833328,
+            "lat": 32.400002
+        }
+    },
+    {
+        "id": 1850269,
+        "name": "Togitsu",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 129.850006,
+            "lat": 32.833328
+        }
+    },
+    {
+        "id": 1850302,
+        "name": "Todaka",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 131.366669,
+            "lat": 31.6
+        }
+    },
+    {
+        "id": 1850307,
+        "name": "Tochio-honchō",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 139.0,
+            "lat": 37.466671
+        }
+    },
+    {
+        "id": 1850310,
+        "name": "Tochigi",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 139.816132,
+            "lat": 36.692589
+        }
+    },
+    {
+        "id": 1850311,
+        "name": "Tochigi",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 139.733337,
+            "lat": 36.383331
+        }
+    },
+    {
+        "id": 1850314,
+        "name": "Tōbō",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 129.933334,
+            "lat": 33.48333
+        }
+    },
+    {
+        "id": 1850345,
+        "name": "Toba",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 136.850006,
+            "lat": 34.48333
+        }
+    },
+    {
+        "id": 1850396,
+        "name": "Tenri",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 135.833328,
+            "lat": 34.583328
+        }
+    },
+    {
+        "id": 1850405,
+        "name": "Tennō",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 139.966675,
+            "lat": 39.900002
+        }
+    },
+    {
+        "id": 1850418,
+        "name": "Tenjin",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 130.399994,
+            "lat": 33.583328
+        }
+    },
+    {
+        "id": 1850420,
+        "name": "Tenjimmae",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 134.050003,
+            "lat": 34.333328
+        }
+    },
+    {
+        "id": 1850472,
+        "name": "Tawaramoto",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 135.800003,
+            "lat": 34.549999
+        }
+    },
+    {
+        "id": 1850498,
+        "name": "Tatsuno",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 137.997208,
+            "lat": 35.984261
+        }
+    },
+    {
+        "id": 1850499,
+        "name": "Tatsunochō-tominaga",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 134.550003,
+            "lat": 34.866669
+        }
+    },
+    {
+        "id": 1850523,
+        "name": "Tateyama",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 139.866669,
+            "lat": 34.98333
+        }
+    },
+    {
+        "id": 1850559,
+        "name": "Tatebayashi",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 139.533325,
+            "lat": 36.25
+        }
+    },
+    {
+        "id": 1850589,
+        "name": "Tarumizu",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 130.699997,
+            "lat": 31.48333
+        }
+    },
+    {
+        "id": 1850600,
+        "name": "Tarui",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 136.533325,
+            "lat": 35.366669
+        }
+    },
+    {
+        "id": 1850617,
+        "name": "Taragi",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 130.933334,
+            "lat": 32.26667
+        }
+    },
+    {
+        "id": 1871856,
+        "name": "Pyongyang",
+        "state": "",
+        "country": "KP",
+        "coord": {
+            "lon": 125.92778,
+            "lat": 38.985279
+        }
+    },
+    {
+        "id": 1871859,
+        "name": "Pyongyang",
+        "state": "",
+        "country": "KP",
+        "coord": {
+            "lon": 125.754318,
+            "lat": 39.033852
+        }
+    },
+    {
+        "id": 1835847,
+        "name": "Seoul",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 127.0,
+            "lat": 37.583328
+        }
+    },
+    {
+        "id": 1835848,
+        "name": "Seoul",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 126.977829,
+            "lat": 37.56826
+        }
+    },
+    {
+        "id": 1835895,
+        "name": "Seosan",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 126.452217,
+            "lat": 36.78167
+        }
+    },
+    {
+        "id": 1835967,
+        "name": "Jenzan",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 128.297501,
+            "lat": 36.240829
+        }
+    },
+    {
+        "id": 1836034,
+        "name": "Seisan-ri",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 128.066666,
+            "lat": 35.099998
+        }
+    },
+    {
+        "id": 1836164,
+        "name": "Songjeong",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 129.357224,
+            "lat": 35.589169
+        }
+    },
+    {
+        "id": 1836208,
+        "name": "Seonghwan",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 127.131393,
+            "lat": 36.915562
+        }
+    },
+    {
+        "id": 1651944,
+        "name": "Vientiane",
+        "state": "",
+        "country": "LA",
+        "coord": {
+            "lon": 102.599998,
+            "lat": 17.966669
+        }
+    },
+    {
+        "id": 1735161,
+        "name": "Kuala Lumpur",
+        "state": "",
+        "country": "MY",
+        "coord": {
+            "lon": 101.686531,
+            "lat": 3.1412
+        }
+    }
+]
