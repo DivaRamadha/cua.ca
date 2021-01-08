@@ -8,8 +8,8 @@ My flutter project.
 * [Setup](#setup)
 
 ## General info
-This project is using openweatherAPI.
-This project is designed by : https://dribbble.com/humble-designer
+* This project is using openweatherAPI.
+* This project is designed by : https://dribbble.com/humble-designer
 	
 ## Technologies
 Project is created with:
