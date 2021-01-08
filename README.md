@@ -8,7 +8,7 @@ My flutter project.
 * [Setup](#setup)
 
 ## General info
-* This project is using [openweatherAPI](#https://openweathermap.org/api)
+* This project is using <a name="aa" href="https://openweathermap.org/api">openweatherAPI</a>
 * This project is designed by [Humble-Designer](#https://dribbble.com/humble-designer)
 	
 ## Technologies
