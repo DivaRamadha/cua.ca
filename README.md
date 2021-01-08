@@ -8,7 +8,8 @@ My flutter project.
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project is using openweatherAPI.
+This project is designed by : https://dribbble.com/humble-designer
 	
 ## Technologies
 Project is created with:
