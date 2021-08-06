@@ -86,38 +86,36 @@ class _SearchLocationPageState extends State<SearchLocationPage> {
         actions: <Widget>[],
       ),
       body: SafeArea(
-        child: Center(
-          child: _isCountriesDataFormed
-              ?
-              // PhoneAuthWidgets.searchCountry(searchCountries())
-              SingleChildScrollView(
-                  child: Column(
-                    children: [
-                      Container(
-                        color: Colors.white,
-                        child: query.isEmpty
-                            ? ListView.builder(
-                                shrinkWrap: true,
-                                physics: NeverScrollableScrollPhysics(),
-                                itemCount: countries.length,
-                                itemBuilder: (con, ind) {
-                                  return listSearchItemWidget(countries[ind]);
-                                },
-                              )
-                            : ListView.builder(
-                                shrinkWrap: true,
-                                physics: NeverScrollableScrollPhysics(),
-                                itemCount: results.length,
-                                itemBuilder: (con, ind) {
-                                  return listSearchItemWidget(results[ind]);
-                                },
-                              ),
-                      ),
-                    ],
-                  ),
-                )
-              : CircularProgressIndicator(),
-        ),
+        child: _isCountriesDataFormed
+            ?
+            // PhoneAuthWidgets.searchCountry(searchCountries())
+            SingleChildScrollView(
+                child: Column(
+                  children: [
+                    Container(
+                      color: Colors.white,
+                      child: query.isEmpty
+                          ? ListView.builder(
+                              shrinkWrap: true,
+                              physics: NeverScrollableScrollPhysics(),
+                              itemCount: countries.length,
+                              itemBuilder: (con, ind) {
+                                return listSearchItemWidget(countries[ind]);
+                              },
+                            )
+                          : ListView.builder(
+                              shrinkWrap: true,
+                              physics: NeverScrollableScrollPhysics(),
+                              itemCount: results.length,
+                              itemBuilder: (con, ind) {
+                                return listSearchItemWidget(results[ind]);
+                              },
+                            ),
+                    ),
+                  ],
+                ),
+              )
+            : CircularProgressIndicator(),
       ),
     );
   }

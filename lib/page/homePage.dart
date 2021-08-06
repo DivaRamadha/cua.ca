@@ -142,7 +142,7 @@ class _HomePageState extends State<HomePage> {
                     daily: '7'),
                 builder: (context, data) {
                   print('-----------------------------------------');
-                  print(data.data.timezone);
+                  // print(data.data.timezone);
                   if (!data.hasData || data == null)
                     return Center(child: CircularProgressIndicator());
                   return SafeArea(
@@ -151,7 +151,7 @@ class _HomePageState extends State<HomePage> {
                       width: MediaQuery.of(context).size.width,
                       child: Column(
                         children: <Widget>[
-                          barAtas(data.data.timezone),
+                          barAtas(data.data.timezone ?? ''),
                           SizedBox(
                             height: 40,
                           ),
